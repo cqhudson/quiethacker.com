@@ -2,14 +2,9 @@
 header:
   - type: typewriter
     methods:
-      - typeString: Hello world!
-      - pauseFor: 2500
+      - typeString: Hello friend
+      - pauseFor: 1000
       - deleteAll: true
-      - typeString: Strings can be removed
-      - pauseFor: 2500
-      - deleteChars: 7
-      - typeString: <strong>altered!</strong>
-      - pauseFor: 2500
     options:
       loop: true
       autoStart: false
@@ -25,9 +20,9 @@ header:
     paddingY: 0
     align: center
     title:
-      - HUGO
+      - quiethacker.com
     subtitle:
-      - The world’s fastest framework for building websites
+      - The archive for fun tech things
     titleColor: 
     titleShadow: true
     titleFontSize: 44

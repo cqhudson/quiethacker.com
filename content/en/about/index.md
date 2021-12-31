@@ -1,27 +1,16 @@
 +++
 title = "About"
-description = "Hugo, the world’s fastest framework for building websites"
+description = "quiethacker.com, an archive of fun tech things"
 type = "about"
-date = "2019-02-28"
+date = "2021-12-30"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Hello friends. Welcome to my site. quiethacker.com was created as a place for me to store what I know about technology on the internet.
 
-Hugo makes use of a variety of open source projects including:
+The site was created using Hugo because Wordpress sucks and octopress go brrrrrr.
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+Hugo loads fast and makes my bad internet feel like I have gigabit speeds.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
-
+Have fun and don't use what I write for [insert Mermaid Man yelling "evil!"]. This is for educational purposes only.
 
 
