@@ -2,7 +2,10 @@
 header:
   - type: typewriter
     methods:
-      - typeString: Hello friend
+      - typeString: ./h3ll0fri3nd.sh
+      - pauseFor: 1000
+      - deleteAll: true
+      - typeString: quiethacker.com
       - pauseFor: 1000
       - deleteAll: true
     options:

@@ -16,4 +16,8 @@ series:
 categories:
 -
 image:
+
+
+author: quiethacker
+authorDesc: "Shh!"
 ---
